@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Datting App",
+    "slug": "Datting App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/home_1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+    "slug": "Datting App",
+    "image": "./assets/images/home_2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
